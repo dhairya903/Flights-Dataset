@@ -2,6 +2,7 @@
 
 
 Dataset for flights in India starting from or going to Mumbai, Chhatrapati Shivaji International Airport.
+You can download the data from this repo or directly from [Kaggle](https://www.kaggle.com/dhairya903/flights-in-india).
 
 --------
 
